@@ -1,2 +1,2 @@
-# BikeRide-Project
+# Project
 Data analysis on BikeRidership 
