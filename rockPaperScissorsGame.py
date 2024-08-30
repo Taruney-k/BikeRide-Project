@@ -60,7 +60,6 @@ elif user_select == 1 and comp_select == 3:
 elif comp_select == 1 and user_select == 3:
     print("You lose")
 
-#
 elif comp_select > user_select:
     print("you lose")
 
